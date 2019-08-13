@@ -1,4 +1,3 @@
-
 import telebot
 import config
 import logging
